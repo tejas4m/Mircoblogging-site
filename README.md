@@ -1,5 +1,5 @@
 
-# Mircoblogging-site
+# Mircoblogging-Site
 
 A simple Twitter clone built using ReactJs and Firebase for backend.
 - MaterialUI for styling and icons.
